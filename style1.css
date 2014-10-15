@@ -3,3 +3,10 @@
   color: white;
 
 }
+body {
+	font-family: 'Droid Sans', 'arial';
+	background-image: url(flopsbackground2.jpg);
+	background-size: cover;
+	position: center center;
+	background-attachment: fixed;	
+}

@@ -11,8 +11,10 @@ body {
 	background-attachment: fixed;	
 }
 
-body {
+
   
-  font-family: "Lobster";
-  
-}
+#footer {
+	color: black;
+	margin: 20px auto;
+	padding: 20px;
+	text-align: center;}

@@ -18,6 +18,7 @@ h1 {
 
 /* Make the section headers (e.g. Summary, Experience) 26px font */
 h4 {
+color: blue;
 font-size: 26px;
 
 

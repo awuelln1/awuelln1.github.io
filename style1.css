@@ -2,7 +2,22 @@
   background-color: #535C5F;
   color: white;
 
+
 }
+
+h1{
+	font-family: "Droid Sans";
+	font-style: italic;
+}
+
+h2{
+	font-family: 'Droid Sans', 'arial';
+}
+
+h3{
+	font-family: 'Droid Sans', 'arial';
+}
+
 body {
 	font-family: 'Droid Sans', 'arial';
 	background-image: url(flopsbackground2.jpg);
